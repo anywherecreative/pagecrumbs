@@ -20,7 +20,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
  
 You should have received a copy of the GNU General Public License
-along with PageCrumbs. If not, see https://github.com/anywherecreative/pagecrumbs/LICENSE.
+along with PageCrumbs. If not, see https://github.com/anywherecreative/pagecrumbs/blob/master/LICENSE.
 */
 
 function get_post_breadcrumb() {
