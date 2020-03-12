@@ -3,7 +3,7 @@
 Plugin Name: PageCrumbs
 Plugin URI:  https://github.com/anywherecreative/pagecrumbs
 Description: a simple way to display breadcrumbs on your website. 
-Version:     1.0.0
+Version:     1.0.1
 Author:      Jeff Manning / Think Forward Media
 Author URI:  https://www.thinkforwardmedia.com
 Text Domain: tfm
